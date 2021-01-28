@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M320 256A64 64 0 0 1 192 256A64 64 0 0 1 320 256Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M320 448A64 64 0 0 1 192 448A64 64 0 0 1 320 448Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M320 64A64 64 0 0 1 192 64A64 64 0 0 1 320 64Z" />
+</vector>
